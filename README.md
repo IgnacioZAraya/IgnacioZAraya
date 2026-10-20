@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ignacio 👋
 
-<!--
-**IgnacioZAraya/IgnacioZAraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer from Costa Rica 🇨🇷 · Software Engineering student at CENFOTEC (graduating May 2027)
 
-Here are some ideas to get you started:
+I build full-stack web and desktop applications, with experience in insurance ERP systems and public-sector data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- **Backend:** C#, .NET, Java, Spring Boot, REST APIs, JWT, Spring Security
+- **Frontend:** React, TypeScript, Angular, Tailwind, Bootstrap
+- **Data:** SQL Server, MySQL, Oracle, MongoDB, Power BI
+- **DevOps & QA:** Git, GitHub Actions, Azure DevOps, JUnit, Selenium, Jest
+
+## Featured projects
+| Project | Stack | What it is |
+|---|---|---|
+| [TaskieTamer_Front](https://github.com/IgnacioZAraya/TaskieTamer_Front) & [TaskieTamer_Back](https://github.com/IgnacioZAraya/TaskieManager_Back) | Angular, Spring Boot, MySQL | Task scheduler + idle pet game that rewards habits |
+| [HelloApp!](https://github.com/gracielamendezrojas/Componentes) | [completar] | Text-based social app for trusted contacts |
+| [Portfolio](https://github.com/IgnacioZelAra/Portfolio) | React | Personal portfolio |
+
+## Experience highlights
+- **Desa Seguros:** insurance ERP features (C#/.NET, SQL Server); cut manual contact operations by 85%
+- **MTSS Costa Rica:** React + TypeScript frontend with 7 Power BI dashboards covering all 7 provinces
+
+📧 igzeladara23@gmail.com · 💼 [LinkedIn](www.linkedin.com/in/ignacio-zelada-ab16b4257)
