@@ -13,8 +13,8 @@ I build full-stack web and desktop applications, with experience in insurance ER
 ## Featured projects
 | Project | Stack | What it is |
 |---|---|---|
-| [TaskieTamer_Front](https://github.com/IgnacioZAraya/TaskieTamer_Front) & [TaskieTamer_Back](https://github.com/IgnacioZAraya/TaskieManager_Back) | Angular, Spring Boot, MySQL | Task scheduler + idle pet game that rewards habits |
-| [HelloApp!](https://github.com/gracielamendezrojas/Componentes) | [completar] | Text-based social app for trusted contacts |
+| [TaskieTamer -_Front](https://github.com/IgnacioZAraya/TaskieTamer_Front) & [TaskieTamer -_Back](https://github.com/IgnacioZAraya/TaskieManager_Back) | Angular, Spring Boot, MySQL | Task scheduler + idle pet game that rewards habits |
+| [HelloApp! - Front](https://github.com/gracielamendezrojas/Componentes) & [HelloApp! - Back](https://github.com/gracielamendezrojas/Componentes) | [completar] | Text-based social app for trusted contacts |
 | [Portfolio](https://github.com/IgnacioZelAra/Portfolio) | React | Personal portfolio |
 
 ## Experience highlights
